@@ -1,3 +1,4 @@
 fare_attributes.txt filter=lfs diff=lfs merge=lfs -text
 stop_times.txt filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
+fare_rules.txt filter=lfs diff=lfs merge=lfs -text
