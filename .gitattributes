@@ -1,0 +1,2 @@
+fare_attributes.txt filter=lfs diff=lfs merge=lfs -text
+stop_times.txt filter=lfs diff=lfs merge=lfs -text
